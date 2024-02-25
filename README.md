@@ -1,4 +1,4 @@
-# roll_the_dice
+# Roll the Dice Flutter App
 
 A new Flutter project.
 
